@@ -1,0 +1,9 @@
+ Program Menghitung Luas dan Keliling Lingkaran
+Masukkan panjang jari-jari lingkaran: 
+3.6
+Luas Lingkaran 	=  46.66
+Keliling Lingkaran 	=  25.92
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
